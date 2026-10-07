@@ -71,11 +71,11 @@ The application is under final testing and deployment preparation.
 
 ### Administrator Dashboard
 
-![Administrator Dashboard](screenshots/admin-dashboard.png)
+![Administrator Dashboard](screenshots/admin_dashboard.png)
 
 ### Teacher Dashboard
 
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
+![Teacher Dashboard](screenshots/teacher_dashboard.png)
 
 ### Fees Management
 ![Fees Management](screenshots/fees.png)
