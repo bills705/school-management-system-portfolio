@@ -63,9 +63,29 @@ Teachers can manage attendance, enter assessment and examination scores, view as
 
 The application is under final testing and deployment preparation.
 
-## Demonstration
+## Application Screenshots
 
-Application screenshots and a demonstration video will be added to this repository.
+### Login
+
+![Login Screen](screenshots/login.png)
+
+### Administrator Dashboard
+
+![Administrator Dashboard](screenshots/admin-dashboard.png)
+
+### Teacher Dashboard
+
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
+
+### Fees Management
+![Fees Management](screenshots/fees.png)
+
+### SMS Distribution
+![SMS Distribution](screenshots/sms.png)
+
+## Demonstration Video
+
+A complete demonstration video will be added soon.
 
 ## Source-Code Access
 
