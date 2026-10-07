@@ -73,4 +73,4 @@ The full source code is available to verified recruiters or technical interviewe
 
 ## Developer
 
-Developed by Shadrack Baaiden as a Java and MySQL software-development portfolio project.
+Developed by Shadrack Baiden as a Java and MySQL software-development portfolio project.
